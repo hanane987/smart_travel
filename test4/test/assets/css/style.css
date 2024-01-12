@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+}
+
+
+#header{
+
+    background-image: url(../imgs/5685020.jpg);
+    background-size: cover;
+
+} 
+#btn{
+    background-color:rgb(101, 24, 255) ;
+}
+
+#booking{
+    background-color: rgb(139, 162, 211);
+    top: -236px;
+
+}
+
+
+
+
+
+
